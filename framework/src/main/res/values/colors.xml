@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fab_bg">#1565c0</color>
+    <color name="color_view_bg_grey">#D5D5D5</color>
+    <color name="light_gray">#e5e5e5</color>
+    <color name="hint_color">#c2c2c2</color>
+    <color name="color_desc">#999999</color>
+    <color name="bg_gray">#f3f3f3</color>
+    <color name="off_white_bg">#fdfdfd</color>
+    <color name="boundary_orange">#A54605</color>
+    <color name="et_gray">#ababab</color>
+    <color name="yellow">#fcff02</color>
+    <color name="black">#000000</color>
+    <color name="tranceparent_gray">#999999</color>
+    <color name="button_gray">#d8d8d8</color>
+    <color name="tranceparent_white">#DFFFFFFF</color>
+    <color name="orange">#f85a1a</color>
+</resources>
